@@ -15,4 +15,4 @@ To run this project:
 
 3. Paste the URL of your Amazon Product
 
-After compiling, you will receive an email whenever the product has a price drop in the specified given Email-Id. You can also download the project [Here](https://coderspacket.com/an-app-to-track-amazon-prices-in-python).
+After compiling, you will receive an email whenever the product has a price drop in the specified given Email-Id. You can also download the project [here](https://coderspacket.com/an-app-to-track-amazon-prices-in-python).
