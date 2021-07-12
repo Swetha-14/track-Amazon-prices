@@ -1,5 +1,5 @@
 # track-Amazon-prices
-## A Python application that tracks the Prices of an Amazon Product and sends an email every time there is a price drop[Here](https://coderspacket.com/an-app-to-track-amazon-prices-in-python).
+## A Python application that tracks the Prices of an Amazon Product and sends an email every time there is a price drop.
 
 First, You have to use this command 
 
@@ -15,4 +15,4 @@ To run this project:
 
 3. Paste the URL of your Amazon Product
 
-After compiling, you will receive an email whenever the product has a price drop in the specified given Email-Id.
+After compiling, you will receive an email whenever the product has a price drop in the specified given Email-Id. You can also download the project [Here](https://coderspacket.com/an-app-to-track-amazon-prices-in-python).
